@@ -1,0 +1,17 @@
+name: "personal_gitweb"
+title: "Sultan Mahmud"
+theme: style.css
+description: |
+  Sultan Mahmud
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "CV"
+      href: CV.html
+    - icon: fab fa-github
+      href: https://github.com/sultan-in-gh
+output: distill::distill_article

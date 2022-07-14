@@ -1,0 +1,68 @@
+---
+title: "Previous Works"
+description: "Some of the salient works demonstrating visualization skills. All the figuers and artworks presented here were created with the help of ArcGIS, RStudio, draw.io, and Adobe Illustrator"
+site: distill::distill_website
+---
+
+## Figures
+<center>
+![A study area map showing Dhaka north and south city corporations](photos/1Mota_khashi_SA.jpg)
+</center>
+
+<center>
+![Study area map of Nijhum Dwip National Park](photos/1NDNP_070322.jpg)
+</center>
+
+<center>
+![Median confidence intervals for different months shown in boxplot errorbars](photos/1median95CI2.png)
+</center>
+
+<center>
+![Screeplot showing percent variation explained at each principal component](photos/1screeplots.png)
+</center>
+
+<center>
+![Variable importance plot using permuted decrease in accuracy from six random forest models](photos/1permutedDA.png)
+</center>
+
+<center>
+![A diagram demostrating the research flow](photos/1Reaserch_Process2.jpg)
+</center>
+
+<center>
+![Sampling distances and intervals of sample plots for an undergrowth study](photos/1sampleplots.jpg)
+</center>
+
+<center>
+![Visual representation of the classification output from six different datasets](photos/1classified.jpg)
+</center>
+
+<center>
+![Ha ha ! I know it looks awful. It was my foray into remote sensing data analysis](photos/1fcc2019.jpg)
+</center>
+
+
+## Artworks
+
+<center>
+![An atlas (infographics) prepared for UNDP Bangladesh in Bengali language](photos/2DSCC_W47.jpg)
+
+![Cover page designed for a seminar document](photos/2bori.jpg)
+
+![A book cover](photos/2bookcover.jpg)
+
+![A program banner](photos/2blood_donation.jpg)
+</center>
+
+<center>
+![Logo mockup 1](photos/2juvenescence.jpg)
+</center>
+
+<center>
+![Logo mockup 2](photos/2bin-logo.jpg)
+</center>
+
+### Links
+[ResearchGate](https://www.researchgate.net/profile/Sultan-Mahmud-7) <br>
+[LinkedIn](https://linkedin.com/in/sultan-mahmud-sust/) <br>
+[Github](https://github.com/sultan-in-gh) <br>

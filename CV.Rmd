@@ -1,0 +1,23 @@
+---
+title: "Curriculum Vitae"
+description: |
+author:
+  - name: Sultan Mahmud 
+    url: https://linkedin.com/in/sultan-mahmud-sust/
+    affiliation: Shahjalal University of Science & Technology, Sylhet
+    affiliation_url: https://sust.edu/
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<center>
+The page is under construction
+</center>
+
+### Links
+[ResearchGate](https://www.researchgate.net/profile/Sultan-Mahmud-7) <br>
+[LinkedIn](https://linkedin.com/in/sultan-mahmud-sust/) <br>
+[Github](https://github.com/sultan-in-gh) <br>

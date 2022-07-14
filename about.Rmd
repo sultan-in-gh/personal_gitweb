@@ -1,0 +1,44 @@
+---
+title: "About Sultan"
+description: |
+  Born & raised in Bangladesh. Attained bachelor's and master's degree in forestry with a concentration in remote sensing and GIS. Worked as a research assistant at my institute as well as at a research consultancy firm. Discussing novel ideas on data wrangling (cleaning, analyzing, and visualizing) is what he relishes most. An ideal work environment for me should have a vision and/or commitment towards sustainability. You can connect with me through **mahmudsultan1220@gmail.com**
+---
+
+```{r, echo=FALSE, out.width="50%", fig.align='center'}
+knitr::include_graphics("photos/me.jpg")
+```
+
+---
+<center>
+## Prominent Soft Skills
+</center>
+
+**RStudio**<br>
+A go to software for data analysis. R being a programming environment helps replicate multiple similar/ parallel workflows. Found it suitable for spatial data analysis as well. Have been a user of this platform for 4 years.
+
+**ArcGIS**<br>
+A fairly standardized software for spatial data management and analysis. An established name across academia and industries. An excellent tool for vector data management but not so for remote sensing data. Hooked with this software since the introduction with it back in the undergrad years.
+
+**QGIS**<br>
+Think of it as a freeware version of ArcGIS. QGIS standalone itself may seem ersatz compared to ArcGIS, however, the package library is rich and being updated on a regular basis. I've utilized multiple plugins like semi automatic classification and dzetsaka.
+
+**SNAP & ENVI**<br>
+ENVI is older than SNAP in the realm of remote sensing data pre-processing and analysis. Some utilize Erdas Imagine for similar tasks. SNAP is equipped with a model builder and batch processor which may come handy while handling multitude of data.
+
+**Google Earth Engine**<br>
+A javascript based programming platform for remote sensing data analysis. It can directly connect to multiple large data repositories like Landsat, Sentinel, and SRTM within a flick. Used it primarily as a data sorting and collecting medium.
+
+**MS Excel**<br>
+I don't have to introduce anyone with this one. Excel data formats are universal across multiple platforms, ergo a stellar storage format. For some, it is the last resort for quick and dirty data analysis but I find it time consuming. I don't see myself as an advanced user of this software.
+
+**KoBoToolbox**<br>
+An ODK based questionnaire form design and data collection medium. The data collection software is called KoBoCollect, which is available for both android and iOS. The platform is mostly popular among different NGOs and international humanitarian organizations. I had both designed multiple questionnaire forms and collected data through this platform.
+
+**Adobe Illustrator**<br>
+There are multiple occasions when we have to produce visually appealing banners and posters using the figures we've produced. Adobe Illustrator is the ubiquitous answer for such cases. Spatial maps can be greatly enhanced by retouching them in the Illustrator.
+
+
+### Links
+[ResearchGate](https://www.researchgate.net/profile/Sultan-Mahmud-7) <br>
+[LinkedIn](https://linkedin.com/in/sultan-mahmud-sust/) <br>
+[Github](https://github.com/sultan-in-gh) <br>
